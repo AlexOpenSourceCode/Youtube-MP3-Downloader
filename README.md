@@ -1,0 +1,1 @@
+Add youtube song links to songs.txt then run main.py to download all the videos as mp3's in User/music/new
